@@ -86,7 +86,7 @@ paths:
                 - available
                 - pending
                 - sold
-              default: available
+              default: available - pets pets pets i love pets
       responses:
         '200':
           description: successful operation
