@@ -262,7 +262,7 @@ paths:
               type: object
               properties:
                 additionalMetadata:
-                  description: Additional data to pass to server
+                  description: Additional data to pass to server - edit
                   type: string
                 file:
                   description: file to upload
